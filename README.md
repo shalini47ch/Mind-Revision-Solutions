@@ -56,6 +56,7 @@ Solution of the must revise questions from the list
 | [0110-balanced-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@ Solution of the must revise questions from the list
 | [0110-balanced-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +104,7 @@ Solution of the must revise questions from the list
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -136,4 +139,16 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0268-missing-number/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
