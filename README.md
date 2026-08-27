@@ -34,10 +34,12 @@ Solution of the must revise questions from the list
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
