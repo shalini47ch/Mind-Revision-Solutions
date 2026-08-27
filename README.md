@@ -95,8 +95,13 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0190-reverse-bits/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
