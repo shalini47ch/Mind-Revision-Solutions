@@ -15,6 +15,7 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0141-linked-list-cycle](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,8 +90,13 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0136-single-number/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
