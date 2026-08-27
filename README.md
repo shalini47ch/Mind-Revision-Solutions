@@ -17,6 +17,7 @@ Solution of the must revise questions from the list
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@ Solution of the must revise questions from the list
 | ------- | ------- |
 | [0066-plus-one](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0202-happy-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +101,7 @@ Solution of the must revise questions from the list
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0202-happy-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +112,7 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0202-happy-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
