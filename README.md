@@ -52,4 +52,13 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
