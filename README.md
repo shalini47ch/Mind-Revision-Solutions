@@ -41,12 +41,14 @@ Solution of the must revise questions from the list
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Tree
@@ -86,6 +88,7 @@ Solution of the must revise questions from the list
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0202-happy-number/) | Easy |
