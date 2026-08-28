@@ -16,6 +16,7 @@ Solution of the must revise questions from the list
 | [0518-coin-change-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0704-binary-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -122,6 +123,7 @@ Solution of the must revise questions from the list
 | [0104-maximum-depth-of-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -213,4 +215,8 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
