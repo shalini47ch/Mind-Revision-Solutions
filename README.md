@@ -29,6 +29,7 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -98,6 +99,7 @@ Solution of the must revise questions from the list
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0070-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0338-counting-bits](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0338-counting-bits/) | Easy |
@@ -121,6 +123,7 @@ Solution of the must revise questions from the list
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0202-happy-number/) | Easy |
@@ -185,4 +188,8 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
