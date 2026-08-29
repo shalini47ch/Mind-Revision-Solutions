@@ -23,6 +23,7 @@ Solution of the must revise questions from the list
 | [0057-insert-interval](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0078-subsets](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -176,6 +177,7 @@ Solution of the must revise questions from the list
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
@@ -272,6 +274,7 @@ Solution of the must revise questions from the list
 | [0039-combination-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0046-permutations/) | Medium |
+| [0078-subsets](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0078-subsets/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
