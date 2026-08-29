@@ -17,6 +17,7 @@ Solution of the must revise questions from the list
 | [0049-group-anagrams](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0136-single-number/) | Easy |
@@ -128,6 +129,7 @@ Solution of the must revise questions from the list
 | [0005-longest-palindromic-substring](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0338-counting-bits](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0338-counting-bits/) | Easy |
@@ -242,6 +244,7 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0055-jump-game/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
