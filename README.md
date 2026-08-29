@@ -25,6 +25,7 @@ Solution of the must revise questions from the list
 | [0073-set-matrix-zeroes](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -57,6 +58,7 @@ Solution of the must revise questions from the list
 | [0022-generate-parentheses](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0072-edit-distance/) | Medium |
+| [0079-word-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Stack
@@ -97,6 +99,7 @@ Solution of the must revise questions from the list
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0079-word-search/) | Medium |
 | [0100-same-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -268,6 +271,7 @@ Solution of the must revise questions from the list
 | [0054-spiral-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0079-word-search/) | Medium |
 | [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -278,6 +282,7 @@ Solution of the must revise questions from the list
 | [0040-combination-sum-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0079-word-search/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
