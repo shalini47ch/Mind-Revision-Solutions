@@ -13,6 +13,7 @@ Solution of the must revise questions from the list
 | [0039-combination-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0136-single-number/) | Easy |
@@ -109,6 +110,7 @@ Solution of the must revise questions from the list
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0048-rotate-image](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0202-happy-number/) | Easy |
@@ -233,6 +235,7 @@ Solution of the must revise questions from the list
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
