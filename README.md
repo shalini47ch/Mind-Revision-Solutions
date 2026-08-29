@@ -18,6 +18,7 @@ Solution of the must revise questions from the list
 | [0053-maximum-subarray](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0136-single-number/) | Easy |
@@ -187,6 +188,7 @@ Solution of the must revise questions from the list
 | ------- | ------- |
 | [0015-3sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -263,4 +265,8 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
