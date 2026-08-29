@@ -122,6 +122,7 @@ Solution of the must revise questions from the list
 | [0007-reverse-integer](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0202-happy-number/) | Easy |
@@ -134,6 +135,7 @@ Solution of the must revise questions from the list
 | [0045-jump-game-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0338-counting-bits](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0338-counting-bits/) | Easy |
@@ -273,4 +275,8 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0056-merge-intervals/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
