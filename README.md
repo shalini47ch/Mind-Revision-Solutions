@@ -39,6 +39,7 @@ Solution of the must revise questions from the list
 | [0217-contains-duplicate](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -129,6 +130,7 @@ Solution of the must revise questions from the list
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -193,6 +195,7 @@ Solution of the must revise questions from the list
 | [0226-invert-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Heap (Priority Queue)
@@ -278,6 +281,7 @@ Solution of the must revise questions from the list
 | [0130-surrounded-regions](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +320,7 @@ Solution of the must revise questions from the list
 | [0074-search-a-2d-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
