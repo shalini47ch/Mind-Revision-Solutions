@@ -31,6 +31,7 @@ Solution of the must revise questions from the list
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0130-surrounded-regions](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0136-single-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0136-single-number/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0518-coin-change-ii/) | Medium |
@@ -230,6 +231,7 @@ Solution of the must revise questions from the list
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Design
