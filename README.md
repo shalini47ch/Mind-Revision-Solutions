@@ -128,6 +128,7 @@ Solution of the must revise questions from the list
 | [0543-diameter-of-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -191,6 +192,7 @@ Solution of the must revise questions from the list
 | [0133-clone-graph](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Heap (Priority Queue)
@@ -275,11 +277,13 @@ Solution of the must revise questions from the list
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
