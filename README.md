@@ -74,6 +74,7 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0155-min-stack/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +241,7 @@ Solution of the must revise questions from the list
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
