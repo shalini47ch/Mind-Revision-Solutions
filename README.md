@@ -49,6 +49,7 @@ Solution of the must revise questions from the list
 | [0073-set-matrix-zeroes](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0133-clone-graph](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0133-clone-graph/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -83,6 +84,7 @@ Solution of the must revise questions from the list
 | [0002-add-two-numbers](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
