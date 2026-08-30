@@ -37,6 +37,7 @@ Solution of the must revise questions from the list
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0518-coin-change-ii/) | Medium |
@@ -128,6 +129,7 @@ Solution of the must revise questions from the list
 | [0130-surrounded-regions](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
@@ -198,6 +200,7 @@ Solution of the must revise questions from the list
 | [0130-surrounded-regions](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
@@ -285,6 +288,7 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
@@ -326,6 +330,7 @@ Solution of the must revise questions from the list
 | [0074-search-a-2d-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Backtracking
