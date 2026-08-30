@@ -112,6 +112,7 @@ Solution of the must revise questions from the list
 | [0104-maximum-depth-of-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -126,6 +127,7 @@ Solution of the must revise questions from the list
 | [0110-balanced-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0133-clone-graph/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
@@ -141,6 +143,7 @@ Solution of the must revise questions from the list
 | [0104-maximum-depth-of-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -194,6 +197,7 @@ Solution of the must revise questions from the list
 | [0104-maximum-depth-of-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0133-clone-graph/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
