@@ -133,6 +133,7 @@ Solution of the must revise questions from the list
 | [0199-binary-tree-right-side-view](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
@@ -205,6 +206,7 @@ Solution of the must revise questions from the list
 | [0199-binary-tree-right-side-view](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
@@ -302,6 +304,7 @@ Solution of the must revise questions from the list
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
 ## Sliding Window
@@ -375,6 +378,7 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
