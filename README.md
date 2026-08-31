@@ -44,6 +44,7 @@ Solution of the must revise questions from the list
 | [0238-product-of-array-except-self](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0518-coin-change-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -202,6 +203,7 @@ Solution of the must revise questions from the list
 | [0139-word-break](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0338-counting-bits](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0518-coin-change-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
