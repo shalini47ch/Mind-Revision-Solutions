@@ -39,6 +39,7 @@ Solution of the must revise questions from the list
 | [0198-house-robber](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0518-coin-change-ii/) | Medium |
@@ -220,6 +221,7 @@ Solution of the must revise questions from the list
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Two Pointers
@@ -255,12 +257,14 @@ Solution of the must revise questions from the list
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0190-reverse-bits](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -389,4 +393,8 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0207-course-schedule/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
