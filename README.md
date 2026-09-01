@@ -135,6 +135,7 @@ Solution of the must revise questions from the list
 | [0199-binary-tree-right-side-view](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -155,6 +156,7 @@ Solution of the must revise questions from the list
 | [0211-design-add-and-search-words-data-structure](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -174,6 +176,7 @@ Solution of the must revise questions from the list
 | [0199-binary-tree-right-side-view](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -327,6 +330,7 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -480,4 +484,12 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
