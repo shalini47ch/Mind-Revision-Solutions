@@ -75,6 +75,7 @@ Solution of the must revise questions from the list
 | [0268-missing-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0355-design-twitter/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@ Solution of the must revise questions from the list
 | [0208-implement-trie-prefix-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0242-valid-anagram](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -360,6 +362,7 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
