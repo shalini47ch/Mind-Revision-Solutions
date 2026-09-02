@@ -12,6 +12,7 @@ Solution of the must revise questions from the list
 | [0033-search-in-rotated-sorted-array](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0048-rotate-image/) | Medium |
@@ -106,6 +107,7 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -215,6 +217,7 @@ Solution of the must revise questions from the list
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0055-jump-game/) | Medium |
@@ -282,6 +285,7 @@ Solution of the must revise questions from the list
 | [0011-container-with-most-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0042-trapping-rain-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -479,6 +483,7 @@ Solution of the must revise questions from the list
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0739-daily-temperatures](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
