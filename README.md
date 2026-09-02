@@ -51,6 +51,7 @@ Solution of the must revise questions from the list
 | [0416-partition-equal-subset-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0494-target-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -230,6 +231,7 @@ Solution of the must revise questions from the list
 | [0338-counting-bits](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0494-target-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -395,6 +397,7 @@ Solution of the must revise questions from the list
 | ------- | ------- |
 | [0322-coin-change](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
@@ -433,6 +436,7 @@ Solution of the must revise questions from the list
 | [0078-subsets](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0494-target-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0494-target-sum/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -519,6 +523,7 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0494-target-sum/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
