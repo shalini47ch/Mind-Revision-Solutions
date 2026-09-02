@@ -75,6 +75,7 @@ Solution of the must revise questions from the list
 | [0049-group-anagrams](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0139-word-break/) | Medium |
@@ -100,6 +101,7 @@ Solution of the must revise questions from the list
 | [0079-word-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0127-word-ladder](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -255,6 +257,7 @@ Solution of the must revise questions from the list
 | [0100-same-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0127-word-ladder](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -564,4 +567,8 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
