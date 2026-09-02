@@ -57,6 +57,7 @@ Solution of the must revise questions from the list
 | [0739-daily-temperatures](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Hash Table
@@ -206,6 +207,7 @@ Solution of the must revise questions from the list
 | [0150-evaluate-reverse-polish-notation](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +270,7 @@ Solution of the must revise questions from the list
 | [0703-kth-largest-element-in-a-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -307,6 +310,7 @@ Solution of the must revise questions from the list
 | [0191-number-of-1-bits](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +323,7 @@ Solution of the must revise questions from the list
 | [0268-missing-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -464,6 +469,7 @@ Solution of the must revise questions from the list
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -513,4 +519,12 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
