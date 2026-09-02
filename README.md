@@ -40,6 +40,7 @@ Solution of the must revise questions from the list
 | [0200-number-of-islands](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -436,6 +437,7 @@ Solution of the must revise questions from the list
 | [0078-subsets](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0494-target-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0494-target-sum/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
