@@ -62,6 +62,7 @@ Solution of the must revise questions from the list
 | [0704-binary-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -181,6 +182,7 @@ Solution of the must revise questions from the list
 | [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
@@ -271,6 +273,7 @@ Solution of the must revise questions from the list
 | [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -283,6 +286,7 @@ Solution of the must revise questions from the list
 | [0355-design-twitter](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1046-last-stone-weight/) | Easy |
@@ -350,6 +354,7 @@ Solution of the must revise questions from the list
 | [0287-find-the-duplicate-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -386,6 +391,7 @@ Solution of the must revise questions from the list
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -438,6 +444,7 @@ Solution of the must revise questions from the list
 | [0200-number-of-islands](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -509,6 +516,7 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -571,4 +579,8 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0127-word-ladder/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 <!---LeetCode Topics End-->
