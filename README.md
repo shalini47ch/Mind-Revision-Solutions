@@ -94,6 +94,7 @@ Solution of the must revise questions from the list
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0022-generate-parentheses/) | Medium |
@@ -137,6 +138,7 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
@@ -224,6 +226,7 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0045-jump-game-ii/) | Medium |
