@@ -294,6 +294,7 @@ Solution of the must revise questions from the list
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -315,6 +316,7 @@ Solution of the must revise questions from the list
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -352,6 +354,7 @@ Solution of the must revise questions from the list
 | [0217-contains-duplicate](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -374,6 +377,7 @@ Solution of the must revise questions from the list
 | [0155-min-stack](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0355-design-twitter](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
@@ -386,6 +390,7 @@ Solution of the must revise questions from the list
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
