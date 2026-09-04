@@ -52,6 +52,7 @@ Solution of the must revise questions from the list
 | [0300-longest-increasing-subsequence](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -186,6 +187,7 @@ Solution of the must revise questions from the list
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
@@ -256,6 +258,7 @@ Solution of the must revise questions from the list
 | [0300-longest-increasing-subsequence](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0338-counting-bits](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -269,6 +272,7 @@ Solution of the must revise questions from the list
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0139-word-break/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +289,7 @@ Solution of the must revise questions from the list
 | [0226-invert-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
@@ -421,6 +426,7 @@ Solution of the must revise questions from the list
 | [0133-clone-graph](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0743-network-delay-time/) | Medium |
@@ -466,6 +472,7 @@ Solution of the must revise questions from the list
 | [0079-word-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -511,10 +518,12 @@ Solution of the must revise questions from the list
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0207-course-schedule/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
