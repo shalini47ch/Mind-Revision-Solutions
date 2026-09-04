@@ -41,6 +41,7 @@ Solution of the must revise questions from the list
 | [0150-evaluate-reverse-polish-notation](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0213-house-robber-ii/) | Medium |
@@ -257,6 +258,7 @@ Solution of the must revise questions from the list
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0139-word-break/) | Medium |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
