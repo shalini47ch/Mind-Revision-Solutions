@@ -64,6 +64,7 @@ Solution of the must revise questions from the list
 | [0518-coin-change-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0739-daily-temperatures](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -270,6 +271,7 @@ Solution of the must revise questions from the list
 | [0435-non-overlapping-intervals](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -469,6 +471,7 @@ Solution of the must revise questions from the list
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
