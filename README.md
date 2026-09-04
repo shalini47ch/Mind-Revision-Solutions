@@ -10,6 +10,7 @@ Solution of the must revise questions from the list
 | [0011-container-with-most-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0036-valid-sudoku](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
@@ -79,6 +80,7 @@ Solution of the must revise questions from the list
 | [0001-two-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0036-valid-sudoku](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
@@ -478,6 +480,7 @@ Solution of the must revise questions from the list
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
