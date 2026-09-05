@@ -109,6 +109,7 @@ Solution of the must revise questions from the list
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0043-multiply-strings](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
@@ -240,6 +241,7 @@ Solution of the must revise questions from the list
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0043-multiply-strings](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0062-unique-paths/) | Medium |
@@ -522,6 +524,7 @@ Solution of the must revise questions from the list
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
