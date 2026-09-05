@@ -57,6 +57,7 @@ Solution of the must revise questions from the list
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -120,6 +121,7 @@ Solution of the must revise questions from the list
 | [0211-design-add-and-search-words-data-structure](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0242-valid-anagram](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Stack
@@ -198,6 +200,7 @@ Solution of the must revise questions from the list
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
@@ -322,6 +325,7 @@ Solution of the must revise questions from the list
 | [0215-kth-largest-element-in-an-array](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -383,6 +387,7 @@ Solution of the must revise questions from the list
 | [0242-valid-anagram](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0853-car-fleet](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0853-car-fleet/) | Medium |
@@ -446,6 +451,7 @@ Solution of the must revise questions from the list
 | [0207-course-schedule](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0743-network-delay-time/) | Medium |
@@ -647,4 +653,16 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Eulerian Circuit
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Eulerian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Semi-Eulerian Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 <!---LeetCode Topics End-->
