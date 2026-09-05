@@ -70,6 +70,7 @@ Solution of the must revise questions from the list
 | [0739-daily-temperatures](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0853-car-fleet](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -130,6 +131,7 @@ Solution of the must revise questions from the list
 | [0150-evaluate-reverse-polish-notation](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0853-car-fleet/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,6 +385,7 @@ Solution of the must revise questions from the list
 | [0295-find-median-from-data-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0853-car-fleet](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -555,6 +558,7 @@ Solution of the must revise questions from the list
 | [0042-trapping-rain-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0853-car-fleet/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
