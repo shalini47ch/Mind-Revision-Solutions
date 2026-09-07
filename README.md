@@ -124,6 +124,7 @@ Solution of the must revise questions from the list
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0647-palindromic-substrings](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -283,6 +284,7 @@ Solution of the must revise questions from the list
 | [0494-target-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0546-remove-boxes](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0546-remove-boxes/) | Hard |
+| [0647-palindromic-substrings](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -350,6 +352,7 @@ Solution of the must revise questions from the list
 | [0202-happy-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0647-palindromic-substrings](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
