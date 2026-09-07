@@ -117,6 +117,7 @@ Solution of the must revise questions from the list
 | [0091-decode-ways](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0127-word-ladder/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -270,6 +271,7 @@ Solution of the must revise questions from the list
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0139-word-break/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0198-house-robber/) | Medium |
@@ -522,6 +524,7 @@ Solution of the must revise questions from the list
 | [0078-subsets](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0494-target-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0494-target-sum/) | Medium |
 ## Simulation
