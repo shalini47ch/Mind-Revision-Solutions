@@ -94,6 +94,7 @@ Solution of the must revise questions from the list
 | [0138-copy-list-with-random-pointer](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0202-happy-number](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -157,6 +158,7 @@ Solution of the must revise questions from the list
 | [0025-reverse-nodes-in-k-group](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0355-design-twitter](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0355-design-twitter/) | Medium |
 ## Recursion
@@ -423,6 +425,7 @@ Solution of the must revise questions from the list
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -701,4 +704,8 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
