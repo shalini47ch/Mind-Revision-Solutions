@@ -100,6 +100,7 @@ Solution of the must revise questions from the list
 | [0347-top-k-frequent-elements](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ Solution of the must revise questions from the list
 | [0424-longest-repeating-character-replacement](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0647-palindromic-substrings](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -399,6 +401,7 @@ Solution of the must revise questions from the list
 | [0435-non-overlapping-intervals](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0853-car-fleet](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -608,6 +611,7 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
