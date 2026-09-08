@@ -1,6 +1,6 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        #use backtracking to solve this 
+        #here we need to return the all possible subsets
         res=[]
         n=len(nums)
         self.helper(0,[],res,nums,n)
