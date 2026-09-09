@@ -222,6 +222,7 @@ Solution of the must revise questions from the list
 | [0743-network-delay-time](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
@@ -334,6 +335,7 @@ Solution of the must revise questions from the list
 | [0743-network-delay-time](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Heap (Priority Queue)
@@ -479,6 +481,7 @@ Solution of the must revise questions from the list
 | [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Sliding Window
@@ -546,6 +549,7 @@ Solution of the must revise questions from the list
 | [0131-palindrome-partitioning](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0494-target-sum](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0494-target-sum/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -580,6 +584,7 @@ Solution of the must revise questions from the list
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0797-all-paths-from-source-to-target](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
