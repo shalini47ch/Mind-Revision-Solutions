@@ -221,6 +221,7 @@ Solution of the must revise questions from the list
 | [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0785-is-graph-bipartite](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
@@ -334,6 +335,7 @@ Solution of the must revise questions from the list
 | [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0785-is-graph-bipartite](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -468,6 +470,7 @@ Solution of the must revise questions from the list
 | [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0785-is-graph-bipartite](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -480,6 +483,7 @@ Solution of the must revise questions from the list
 | [0547-number-of-provinces](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
@@ -727,4 +731,12 @@ Solution of the must revise questions from the list
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
