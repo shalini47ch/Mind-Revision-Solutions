@@ -104,6 +104,7 @@ Solution of the must revise questions from the list
 | [0355-design-twitter](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0763-partition-labels](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0763-partition-labels/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -133,6 +134,7 @@ Solution of the must revise questions from the list
 | [0424-longest-repeating-character-replacement](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0647-palindromic-substrings](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0763-partition-labels](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0763-partition-labels/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Stack
@@ -430,6 +432,7 @@ Solution of the must revise questions from the list
 | [0704-binary-search](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -441,6 +444,7 @@ Solution of the must revise questions from the list
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0355-design-twitter](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
