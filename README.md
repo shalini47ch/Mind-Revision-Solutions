@@ -135,6 +135,7 @@ Solution of the must revise questions from the list
 | [0332-reconstruct-itinerary](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0647-palindromic-substrings](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0763-partition-labels](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -148,6 +149,7 @@ Solution of the must revise questions from the list
 | [0143-reorder-list](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0155-min-stack/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0853-car-fleet/) | Medium |
 ## Bracket Sequences
@@ -155,6 +157,7 @@ Solution of the must revise questions from the list
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,6 +312,7 @@ Solution of the must revise questions from the list
 | [0518-coin-change-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0546-remove-boxes](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0546-remove-boxes/) | Hard |
 | [0647-palindromic-substrings](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -533,6 +537,7 @@ Solution of the must revise questions from the list
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0763-partition-labels](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0763-partition-labels/) | Medium |
 ## Matrix
