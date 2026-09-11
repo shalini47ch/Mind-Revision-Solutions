@@ -73,6 +73,7 @@ Solution of the must revise questions from the list
 | [0739-daily-temperatures](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0827-making-a-large-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0853-car-fleet](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -234,6 +235,7 @@ Solution of the must revise questions from the list
 | [0785-is-graph-bipartite](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0827-making-a-large-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [1192-critical-connections-in-a-network](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
@@ -350,6 +352,7 @@ Solution of the must revise questions from the list
 | [0785-is-graph-bipartite](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0827-making-a-large-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Heap (Priority Queue)
@@ -488,6 +491,7 @@ Solution of the must revise questions from the list
 | [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0827-making-a-large-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -555,6 +559,7 @@ Solution of the must revise questions from the list
 | [0417-pacific-atlantic-water-flow](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0827-making-a-large-island](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
