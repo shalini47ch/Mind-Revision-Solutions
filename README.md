@@ -80,6 +80,7 @@ Solution of the must revise questions from the list
 | [0973-k-closest-points-to-origin](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -321,6 +322,7 @@ Solution of the must revise questions from the list
 | [0746-min-cost-climbing-stairs](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -435,6 +437,7 @@ Solution of the must revise questions from the list
 | [0435-non-overlapping-intervals](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0853-car-fleet](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/shalini47ch/Mind-Revision-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
