@@ -1,3 +1,4 @@
+#first create a node and then perform the functions accordingly
 class Node:
     def __init__(self):
         self.links=[None for i in range(26)]
@@ -17,7 +18,7 @@ class Node:
     
     def isEnd(self):
         return self.flag
-
+    
 class Trie:
 
     def __init__(self):
@@ -30,26 +31,24 @@ class Trie:
                 node.put(word[i])
             node=node.get(word[i])
         node.setEnd()
-        
 
     def search(self, word: str) -> bool:
-        #now here we need to return True or False 
         node=self.root
         for i in range(0,len(word)):
             if not node.containsKey(word[i]):
-                return False
+                return False 
             node=node.get(word[i])
-        #this means whether you have reached the end of the word
         return node.isEnd()
         
-
     def startsWith(self, prefix: str) -> bool:
+        #here we need to return True or False
         node=self.root
         for i in range(0,len(prefix)):
             if not node.containsKey(prefix[i]):
                 return False
             node=node.get(prefix[i])
         return True
+
         
 
 
